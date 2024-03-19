@@ -1,0 +1,61 @@
+[{
+  "name": "Francine",
+  "comment": "id massa id nisl venenatis lacinia",
+  "place": "Peluqería WOW",
+  "rating": 4.45,
+  "location": "0 Vernon Crossing"
+}, {
+  "name": "Rafael",
+  "comment": "convallis nunc proin at",
+  "place": "Barber Shop Pro",
+  "rating": 4.72,
+  "location": "20 Del Mar Avenue"
+}, {
+  "name": "Rock",
+  "comment": "velit vivamus vel nulla eget eros",
+  "place": "LavaTodo",
+  "rating": 2.13,
+  "location": "1931 Granby Plaza"
+}, {
+  "name": "Jorrie",
+  "comment": "curabitur in libero ut",
+  "place": "My Nails",
+  "rating": 4.73,
+  "location": "906 Clemons Avenue"
+}, {
+  "name": "Lynda",
+  "comment": "eu tincidunt in leo maecenas pulvinar lobortis est phasellus",
+  "place": "Peluqería WOW",
+  "rating": 4.28,
+  "location": "0 Jana Junction"
+}, {
+  "name": "Theo",
+  "comment": "libero rutrum ac",
+  "place": "Barber Shop Pro",
+  "rating": 1.0,
+  "location": "1999 Warrior Point"
+}, {
+  "name": "Julius",
+  "comment": "cum sociis natoque penatibus et magnis dis",
+  "place": "LavaTodo",
+  "rating": 1.93,
+  "location": "0 New Castle Trail"
+}, {
+  "name": "Johnnie",
+  "comment": "dui vel nisl duis",
+  "place": "My Nails",
+  "rating": 1.95,
+  "location": "8 Prentice Junction"
+}, {
+  "name": "Sherwynd",
+  "comment": "morbi vel lectus in quam fringilla rhoncus mauris",
+  "place": "Peluqería WOW",
+  "rating": 4.32,
+  "location": "37617 Blaine Lane"
+}, {
+  "name": "Berti",
+  "comment": "montes nascetur ridiculus mus vivamus vestibulum sagittis sapien",
+  "place": "Barber Shop Pro",
+  "rating": 1.31,
+  "location": "0 Gerald Junction"
+}]
